@@ -11,32 +11,30 @@
   color: #fff;
   margin: -20px auto;
 }
-.App button{
+.App button {
   font-size: 16px;
 }
-.App p{
+.App p {
   font-size: 13px;
   line-height: 20px;
 }
-.App h1{
+.App h1 {
   font-size: 26px;
 }
 @media all and (min-width: 800px) {
   .intro h1 {
     font-size: 50px;
   }
-  .App button{
+  .App button {
     font-size: 20px;
   }
-  .App p{
+  .App p {
     font-size: 18px;
   }
-  .App h1{
+  .App h1 {
     font-size: 40px;
   }
 }
-
-
 
 .App header {
   background: rgb(255, 0, 143);
@@ -115,12 +113,17 @@ form {
 
 form button {
   width: 20%;
-  background-color: rgb(56, 56, 143);
+  background: rgb(255, 0, 143);
+  background: linear-gradient(
+    45deg,
+    rgba(255, 0, 143, 1) 0%,
+    rgba(82, 129, 255, 1) 100%
+  );
 }
 
 input {
   line-height: 1.5;
-  width: 100%;
+  width: 80%;
   font-size: 1.5rem;
   background: rgb(58, 58, 58);
   color: white;
@@ -133,7 +136,7 @@ button {
   background-color: #282c34; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 15px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
