@@ -52,7 +52,7 @@ function SignIn() {
 
   return (
     <div className="intro">
-      <h1>Welcome to sistachat</h1>
+      <h1 className="introhead">Welcome to sistachat</h1>
       <p>A place for you to discuss your Experiences, Ideas, Problems and Solutions with other people.</p>
       <button className="sign-in" onClick={signInWithGoogle}>Continue with Google</button>
       <p>Made By <b>Priyanshu&nbsp;Mishra</b></p>

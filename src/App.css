@@ -21,6 +21,9 @@
 .App h1 {
   font-size: 26px;
 }
+.introhead{
+  font-size: 34px !important;
+}
 @media all and (min-width: 800px) {
   .intro h1 {
     font-size: 50px;
@@ -33,6 +36,9 @@
   }
   .App h1 {
     font-size: 40px;
+  }
+  .introhead{
+    font-size: 52px !important;
   }
 }
 
