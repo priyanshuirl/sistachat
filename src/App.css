@@ -11,11 +11,32 @@
   color: #fff;
   margin: -20px auto;
 }
+.App button{
+  font-size: 16px;
+}
+.App p{
+  font-size: 13px;
+  line-height: 20px;
+}
+.App h1{
+  font-size: 26px;
+}
 @media all and (min-width: 800px) {
   .intro h1 {
     font-size: 50px;
   }
+  .App button{
+    font-size: 20px;
+  }
+  .App p{
+    font-size: 18px;
+  }
+  .App h1{
+    font-size: 40px;
+  }
 }
+
+
 
 .App header {
   background: rgb(255, 0, 143);

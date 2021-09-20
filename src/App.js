@@ -55,6 +55,7 @@ function SignIn() {
       <h1>Welcome to sistachat</h1>
       <p>A place for you to discuss your Experiences, Ideas, Problems and Solutions with other people.</p>
       <button className="sign-in" onClick={signInWithGoogle}>Continue with Google</button>
+      <p>Made By <b>Priyanshu&nbsp;Mishra</b></p>
     </div>
   )
 
@@ -62,7 +63,7 @@ function SignIn() {
 
 function SignOut() {
   return auth.currentUser && (
-    <button className="sign-out" onClick={() => auth.signOut()}>Sign Out</button>
+    <button className="sign-out" onClick={() => auth.signOut()}>Sign&nbsp;Out</button>
   )
 }
 
