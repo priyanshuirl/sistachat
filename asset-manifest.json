@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sistachat/static/css/main.ce35eafa.chunk.css",
-    "main.js": "/sistachat/static/js/main.ecd26199.chunk.js",
-    "main.js.map": "/sistachat/static/js/main.ecd26199.chunk.js.map",
+    "main.css": "/sistachat/static/css/main.89eacde1.chunk.css",
+    "main.js": "/sistachat/static/js/main.ae22d010.chunk.js",
+    "main.js.map": "/sistachat/static/js/main.ae22d010.chunk.js.map",
     "runtime-main.js": "/sistachat/static/js/runtime-main.9cf9dccb.js",
     "runtime-main.js.map": "/sistachat/static/js/runtime-main.9cf9dccb.js.map",
     "static/js/2.0a96bb55.chunk.js": "/sistachat/static/js/2.0a96bb55.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.54899ebd.chunk.js": "/sistachat/static/js/3.54899ebd.chunk.js",
     "static/js/3.54899ebd.chunk.js.map": "/sistachat/static/js/3.54899ebd.chunk.js.map",
     "index.html": "/sistachat/index.html",
-    "static/css/main.ce35eafa.chunk.css.map": "/sistachat/static/css/main.ce35eafa.chunk.css.map",
+    "static/css/main.89eacde1.chunk.css.map": "/sistachat/static/css/main.89eacde1.chunk.css.map",
     "static/js/2.0a96bb55.chunk.js.LICENSE.txt": "/sistachat/static/js/2.0a96bb55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9cf9dccb.js",
     "static/js/2.0a96bb55.chunk.js",
-    "static/css/main.ce35eafa.chunk.css",
-    "static/js/main.ecd26199.chunk.js"
+    "static/css/main.89eacde1.chunk.css",
+    "static/js/main.ae22d010.chunk.js"
   ]
 }
