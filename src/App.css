@@ -24,6 +24,10 @@
 .introhead{
   font-size: 34px !important;
 }
+a{
+  text-decoration: none;
+  color: #fff;
+}
 @media all and (min-width: 800px) {
   .intro h1 {
     font-size: 50px;

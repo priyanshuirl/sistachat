@@ -31,7 +31,7 @@ function App() {
     <div className="App">
       <header>
         <h1>sistachat</h1>
-        <p>Made By <b>Priyanshu Mishra</b></p>
+        <p>Made By <a href={"https://www.linkedin.com/in/priyanshuirl/"}><b>Priyanshu Mishra</b></a></p>
         <SignOut />
       </header>
 
@@ -55,7 +55,7 @@ function SignIn() {
       <h1 className="introhead">Welcome to sistachat</h1>
       <p>A place for you to discuss your Experiences, Ideas, Problems and Solutions with other people.</p>
       <button className="sign-in" onClick={signInWithGoogle}>Continue with Google</button>
-      <p>Made By <b>Priyanshu&nbsp;Mishra</b></p>
+      <p>Made By <a href={"https://www.linkedin.com/in/priyanshuirl/"}><b>Priyanshu&nbsp;Mishra</b></a></p>
     </div>
   )
 
